@@ -1,1 +1,1 @@
-var one = "test";
+var two = "new";
